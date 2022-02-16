@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 parent_title: Readings
+parent_type: CourseSection
 parent_uid: 0f9b86ac-710b-b995-7cc9-29b4a343ceeb
 title: Discussion Tips
 uid: 2596b552-3f20-84fa-b739-a15d1ba14cb1
