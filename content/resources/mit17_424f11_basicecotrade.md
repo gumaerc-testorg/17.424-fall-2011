@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 0f9b86ac-710b-b995-7cc9-29b4a343ceeb
 resourcetype: Document
 title: Basic Economics of Trade
 uid: ad4dfac3-5fc1-2b16-1ca6-27ae35881b91

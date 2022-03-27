@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 8fffd587-f817-18ca-a9a5-5e4c32695d05
 resourcetype: Document
 title: Research Proposal Template
 uid: 80ba3b0e-39df-0bc8-db3d-b61d016c5566
