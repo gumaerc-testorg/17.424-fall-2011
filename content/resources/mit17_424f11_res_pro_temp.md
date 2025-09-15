@@ -2,7 +2,8 @@
 content_type: resource
 description: "Template for a 15\u2013page research proposal on a topic related to\
   \ international political economy."
-file: /courses/17-424-international-political-economy-of-advanced-industrial-societies-fall-2011/80ba3b0e39df0bc8db3db61d016c5566_MIT17_424F11_Res_Pro_Temp.pdf
+file: /ol-ocw-studio-app/courses/17-424-international-political-economy-of-advanced-industrial-societies-fall-2011/80ba3b0e39df0bc8db3db61d016c5566_MIT17_424F11_Res_Pro_Temp.pdf
+file_size: 203445
 file_type: application/pdf
 learning_resource_types:
 - Assignments
