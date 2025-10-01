@@ -80,13 +80,13 @@ Students were asked to purchase the following books:
 
 Frieden, Jeffry A. _Global Capitalism: Its Fall and Rise in the Twentieth Century_. W. W. Norton & Company, 2006. ISBN: 9780393058086.
 
-Mosley, Layna. _Global Capital and National Governments (Cambridge Studies in Comparative Politics)_. Cambridge University Press, 2003. ISBN: 9780521521628. \[Preview with [Google Books](http://books.google.com/books?id=pYykNVRMpKAC&pg=PAfrontcover#v=onepage)\]
+Mosley, Layna. _Global Capital and National Governments (Cambridge Studies in Comparative Politics)_. Cambridge University Press, 2003. ISBN: 9780521521628. \[Preview with {{% resource_link "09bf7b5a-368a-45ec-bdea-9e71c59384ef" "Google Books" %}}\]
 
 Students were encouraged to consult a good international economics textbook such as:
 
 Caves, Richard E., Jeffrey A. Frankel, and Ronald W. Jones. _World Trade and Payments: An Introduction (10th Edition, International Edition)_. Pearson, 2007. ISBN: 9780321248558.
 
-Krugman, Paul R., Maurice Obstfeld, and Marc Melitz. _International Economics (9th Edition)_. Prentice Hall, 2011. ISBN: 9780132146654. \[Preview with [Google Books](http://books.google.com/books?id=WBItjiyoshgC&pg=PAfrontcover#v=onepage)\]
+Krugman, Paul R., Maurice Obstfeld, and Marc Melitz. _International Economics (9th Edition)_. Prentice Hall, 2011. ISBN: 9780132146654. \[Preview with {{% resource_link "f137922a-6e58-47c7-8872-86fe45fa4fab" "Google Books" %}}\]
 
 Accessible discussions of many of the economic theories discussed in the readings can be found in:
 
@@ -96,4 +96,4 @@ Oatley, Thomas. _International Political Economy (5th Edition)_. Longman, 2011. 
 
 An excellent reference on the history of international monetary relations is:
 
-Eichengreen, Barry. _Globalizing Capital: A History of the International Monetary System (Second Edition)_. Princeton University Press, 2008. ISBN: 9780691139371. \[Preview with [Google Books](http://books.google.com/books?id=_iNqESd-9R0C&pg=PAfrontcover#v=onepage)\]
+Eichengreen, Barry. _Globalizing Capital: A History of the International Monetary System (Second Edition)_. Princeton University Press, 2008. ISBN: 9780691139371. \[Preview with {{% resource_link "7209ebfd-ce91-4892-b65a-579cb7056bdc" "Google Books" %}}\]
